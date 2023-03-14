@@ -1,0 +1,19 @@
+Instalasi
+- Pindahkan folder Aplikasi-Kasir-Pengelolaan-Layanan-Laundry ke folder htdocs atau www
+- Buat database dengan nama laundry
+- Import file yanga ada pada folder Database
+
+Login
+Admin
+Username = admin
+Pass = admin
+
+Kasir
+Username = kasircantik
+Pass = admin
+
+Owner
+Username = ownercantik
+Pass = admin
+
+============Tested on PHP 5.6.12 (XAMPP v3.2.1)============
